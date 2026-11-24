@@ -1,0 +1,8 @@
+build/
+install/
+log/
+.home/
+__pycache__/
+*.pyc
+frames_*.pdf
+frames_*.gv
