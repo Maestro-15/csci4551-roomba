@@ -126,4 +126,6 @@ To see how the nodes connect, run `rqt_graph`. A screenshot is in `docs/rqt_grap
 ## AI use
 
 Claude (an AI assistant) generated the launch files, the obstacle and complex room worlds, the
-,`enter.sh`, the `Dockerfile` and this README. 
+cleaned house world, `sensor_view.py`, `activate_controllers.py`, `enter.sh`, the `Dockerfile`
+and this README. `stop_before_hit` was started by Lakshya and completed with Claude.
+`depth_watch` was written by Lakshya step by step with Claude's explanations and code snippets.

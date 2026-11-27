@@ -31,7 +31,7 @@ setup(
         'console_scripts': [
             'activate_controllers = roomba_sensors.activate_controllers:main',
             'sensor_view = roomba_sensors.sensor_view:main',
-            'stop_before_hit = roomba_sensors.stop_before_hit:main',
+            'lidar_watch = roomba_sensors.lidar_watch:main',
                 'depth_watch = roomba_sensors.depth_watch:main',
         ],
     },

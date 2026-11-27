@@ -7,8 +7,8 @@ from sensor_msgs.msg import LaserScan
 from std_msgs.msg import Float32
 SAFE_DISTANCE = 0.328 * 2
 BEAMS_30_DEGREES = 250
-FORWARD_SPEED = 0.2
-TURN_SPEED = 0.5
+FORWARD_SPEED = 0.7
+TURN_SPEED = 0.8
 
 
 class StopBeforeHit(Node):
