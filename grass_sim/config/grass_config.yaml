@@ -1,0 +1,17 @@
+terrain:
+  heightmap: "worlds/lawn_world/media/heightmaps/Heightmap3.png"
+  size:
+    x: 20.0 #meters
+    y: 20.0 #meters
+    z: 1.5 #meters
+
+grass:
+  cell_size: 0.1 #meters
+  chunk_cells:
+    x: 20
+    y: 20
+  initial_height: 0.15 #meters
+  grass_heights:
+    - 0.01
+    - 0.02
+    - 0.03
